@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\a33729956af0270accb92dfd3a430196\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\98390721d40c109b17fa8d96bea957da\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\078791e9fad7d462cabbd23aaa6a4be0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\55234027468f08798f3ba67329242d32\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\cc814d3c793b9153846614322af09405\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7cb94280ff49072ca23745ff1d88ea14\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ba7d976bebca0b84f19d5cdc88ef5a74\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\77e1d3849ab199d708ace621fafafef5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4d3853ce6629b2f31fd6287f2adbec34\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f291c2ec55643805a2655c7ee58486be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\e02569aec2ddd249882eb4b742751cb6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\f7ecf6cbe6cd7805e8a144f2f92dfcc8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\92086b62f90b23b08af56992d474077f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6b6e19c7ca30ddbbab6c8e124346aa88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\0d0217d318159f269f8efc491c02cedc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\a31368f2939e65eb1596b5e0c3cc1962\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\dffc752c51a961e176b6894b3d91340e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\d79358dfbc07898a3cb7751994cd9266\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\e84c6ab77117a65b290fc038855ec8bf\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5ff2e6d0d23b4d128b0a44eaaf37c36b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\61b4634c3b01516d1fad4a581ac5eab2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\531bb5f22ecb6892ff98b4dad24c9264\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\4345dff64a90f4916ab8f704e6fc0b46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\ed35a2e622982c3e4699a66ce3797f16\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\7a37330d446132d42ee2c10cd365462a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c28ab9083c6fcafce11bf181da051f47\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\78c6824aa0c7bcc69bb52fc334b20f1c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\3343add67325625694a23e60108b295d\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:19:5-42
+		INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:21:5-35:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\dffc752c51a961e176b6894b3d91340e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\dffc752c51a961e176b6894b3d91340e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\e84c6ab77117a65b290fc038855ec8bf\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\e84c6ab77117a65b290fc038855ec8bf\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\dffc752c51a961e176b6894b3d91340e\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.aboutme.MainActivity
+ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\a33729956af0270accb92dfd3a430196\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\a33729956af0270accb92dfd3a430196\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\98390721d40c109b17fa8d96bea957da\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\98390721d40c109b17fa8d96bea957da\AndroidManifest.xml:22:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\078791e9fad7d462cabbd23aaa6a4be0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\078791e9fad7d462cabbd23aaa6a4be0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\55234027468f08798f3ba67329242d32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\55234027468f08798f3ba67329242d32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\cc814d3c793b9153846614322af09405\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\cc814d3c793b9153846614322af09405\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7cb94280ff49072ca23745ff1d88ea14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7cb94280ff49072ca23745ff1d88ea14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ba7d976bebca0b84f19d5cdc88ef5a74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ba7d976bebca0b84f19d5cdc88ef5a74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\77e1d3849ab199d708ace621fafafef5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\77e1d3849ab199d708ace621fafafef5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4d3853ce6629b2f31fd6287f2adbec34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4d3853ce6629b2f31fd6287f2adbec34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f291c2ec55643805a2655c7ee58486be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f291c2ec55643805a2655c7ee58486be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\e02569aec2ddd249882eb4b742751cb6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\e02569aec2ddd249882eb4b742751cb6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\f7ecf6cbe6cd7805e8a144f2f92dfcc8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\f7ecf6cbe6cd7805e8a144f2f92dfcc8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\92086b62f90b23b08af56992d474077f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\92086b62f90b23b08af56992d474077f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6b6e19c7ca30ddbbab6c8e124346aa88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6b6e19c7ca30ddbbab6c8e124346aa88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\0d0217d318159f269f8efc491c02cedc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\0d0217d318159f269f8efc491c02cedc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\a31368f2939e65eb1596b5e0c3cc1962\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\a31368f2939e65eb1596b5e0c3cc1962\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\dffc752c51a961e176b6894b3d91340e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\dffc752c51a961e176b6894b3d91340e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\d79358dfbc07898a3cb7751994cd9266\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\d79358dfbc07898a3cb7751994cd9266\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\e84c6ab77117a65b290fc038855ec8bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\e84c6ab77117a65b290fc038855ec8bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5ff2e6d0d23b4d128b0a44eaaf37c36b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5ff2e6d0d23b4d128b0a44eaaf37c36b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\61b4634c3b01516d1fad4a581ac5eab2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\61b4634c3b01516d1fad4a581ac5eab2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\531bb5f22ecb6892ff98b4dad24c9264\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\531bb5f22ecb6892ff98b4dad24c9264\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\4345dff64a90f4916ab8f704e6fc0b46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\4345dff64a90f4916ab8f704e6fc0b46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\ed35a2e622982c3e4699a66ce3797f16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\ed35a2e622982c3e4699a66ce3797f16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\7a37330d446132d42ee2c10cd365462a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\7a37330d446132d42ee2c10cd365462a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c28ab9083c6fcafce11bf181da051f47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\c28ab9083c6fcafce11bf181da051f47\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\78c6824aa0c7bcc69bb52fc334b20f1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\78c6824aa0c7bcc69bb52fc334b20f1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\3343add67325625694a23e60108b295d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yong Han\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\3343add67325625694a23e60108b295d\AndroidManifest.xml:20:5-44
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\android-kotlin-fundamentals-apps-master (1)\android-kotlin-fundamentals-apps-master\AboutMeDataBinding\app\src\main\AndroidManifest.xml
